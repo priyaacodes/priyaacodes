@@ -10,6 +10,11 @@
 <a href="https://leetcode.com/priyaacodes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/priyaacodes/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@priyaa.221202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@priyaa.221202" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/geeksforgeeks.org/user/priyaa291id/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeksforgeeks.org/user/priyaa291id/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<a href="https://www.codecademy.com/profiles/priyaa.2212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.codecademy.com/profiles/priyaa.2212" height="30" width="40" /></a>
+<a href="https://www.interviewbit.com/profile/priya_632_627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.interviewbit.com/profile/priya_632_627" height="30" width="40" /></a>
+
+  
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
